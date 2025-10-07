@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\ESFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24641A18-1114-4F00-87FC-0B6858621AF7}|ESFE.Calculadora\\ESFE.Calculadora.csproj|c:\\users\\usuario\\source\\repos\\esfe\\esfe.calculadora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24641A18-1114-4F00-87FC-0B6858621AF7}|ESFE.Calculadora\\ESFE.Calculadora.csproj|solutionrelative:esfe.calculadora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ESFE\\ESFE.Calculadora\\Class1.cs",
+              "RelativeDocumentMoniker": "ESFE.Calculadora\\Class1.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ESFE\\ESFE.Calculadora\\Class1.cs",
+              "RelativeToolTip": "ESFE.Calculadora\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T21:07:53.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
