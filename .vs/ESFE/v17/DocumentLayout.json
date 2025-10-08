@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\ESFE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24641A18-1114-4F00-87FC-0B6858621AF7}|ESFE.Calculadora\\ESFE.Calculadora.csproj|c:\\users\\usuario\\source\\repos\\esfe\\esfe.calculadora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24641A18-1114-4F00-87FC-0B6858621AF7}|ESFE.Calculadora\\ESFE.Calculadora.csproj|solutionrelative:esfe.calculadora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24641A18-1114-4F00-87FC-0B6858621AF7}|ESFE.Calculadora\\ESFE.Calculadora.csproj|c:\\users\\usuario\\source\\repos\\esfe\\esfe.calculadora\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24641A18-1114-4F00-87FC-0B6858621AF7}|ESFE.Calculadora\\ESFE.Calculadora.csproj|solutionrelative:esfe.calculadora\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ESFE\\ESFE.Calculadora\\Class1.cs",
-              "RelativeDocumentMoniker": "ESFE.Calculadora\\Class1.cs",
-              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ESFE\\ESFE.Calculadora\\Class1.cs",
-              "RelativeToolTip": "ESFE.Calculadora\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ESFE\\ESFE.Calculadora\\Calculator.cs",
+              "RelativeDocumentMoniker": "ESFE.Calculadora\\Calculator.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ESFE\\ESFE.Calculadora\\Calculator.cs",
+              "RelativeToolTip": "ESFE.Calculadora\\Calculator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:07:53.08Z",
+              "WhenOpened": "2025-10-07T21:39:17.154Z",
               "EditorCaption": ""
             }
           ]
